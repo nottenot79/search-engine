@@ -1,0 +1,9 @@
+Flask==3.1.0
+numpy==2.2.3
+pdfminer==20191125
+pdfminer.six==20181108
+pyngrok==7.2.3
+python_magic==0.4.27
+spacy==3.8.4
+textract==1.6.3
+Werkzeug==3.1.3
